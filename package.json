@@ -1,0 +1,18 @@
+{
+  "name": "back-end-100days-cours",
+  "version": "1.0.0",
+  "description": "Getting started with nodejs & back end !",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "George",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
