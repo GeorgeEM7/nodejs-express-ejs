@@ -1,9 +1,1 @@
-[
-    {
-        "name": "george@gmail.com",
-        "address": "abcd123465",
-        "cuisine": "dacac",
-        "website": "https://as.com",
-        "description": "sdda"
-    }
-]
+[{"name":"Abo Anas","address":"El betrol, mokattam city","cuisine":"sorian","website":"https://aboanaselsory.com","description":"shawerma mix","id":"46319f75-6984-4f6b-8c3f-ed880a4b8e28"},{"name":"bondo2","address":"el betrol, ozzo street, mokattam city","cuisine":"itlian and shar2i","website":"https://bondo2.com","description":"fterya shar2i mshkel l7om","id":"dde33da7-dc6b-4ae7-b425-d0a36dd90567"},{"name":"bazzoka","address":"street 9, elmokattam city","cuisine":"fried","website":"https://bazzoka.com","description":"meals","id":"8e10959e-ee80-40b4-bc53-2ca21ef7e41f"},{"name":"city creep","address":"el betrol, street 9 , el mokattam city","cuisine":"creeps","website":"hhttps://citycreep.com","description":"saro5 creep","id":"36c70df4-1306-44bf-a87e-a52b7fc3bdf9"},{"name":"abo mazen","address":"nafora, street 9, mokattam","cuisine":"sorian","website":"https://abomazen.com","description":"mix meal","id":"1c9b97ce-2c34-484a-87af-2f6bdd11eba9"}]
